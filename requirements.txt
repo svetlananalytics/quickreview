@@ -1,0 +1,13 @@
+pandas
+matplotlib
+streamlit
+tweepy==3.7
+textblob
+wordcloud
+tweet-preprocessor
+nltk
+Pillow
+regex
+plotly.express
+plotly
+datetime
